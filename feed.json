@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Omar Kassam: Schoolwork",
+    "description": "",
+    "home_page_url": "https://omarkassam.com/schoolwork",
+    "feed_url": "https://omarkassam.com/schoolwork/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "omar"
+    },
+    "items": [
+    ]
+}
